@@ -157,3 +157,68 @@ font-size: 14px;
 .col-4:hover{
   transform: translateY(-5px);
 }
+/*-----offer--------*/
+.offer {
+  background: radial-gradient(#fff,#E6DADA);
+  margin-top: 80px;
+  padding: 30px 0;
+}
+
+.col-2 .offer-img {
+  
+  padding: 30px;
+}
+
+.small{
+  columns: #555;
+}
+
+/*-----footer--------*/
+
+.footer {
+background-color: #000;
+color: #8a8a8a;
+font-size: 14px;
+padding: 60px 0 20px;
+}
+
+.footer p{
+  background-color: #8a8a8a;
+  }
+  
+  .footer h3{
+    color: #fff;
+    margin-bottom: 20px;
+  }
+
+  .footer-col-1, .footer-col-2, .footer-col-3, .footer-col-4 {
+ min-width: 250px;
+ margin-bottom: 20px;
+  }
+  .footer-col-1{
+    flex-basis: 30%;
+  }
+  .footer-col-2{
+    flex-basis: 30%;
+    text-align: center;
+  }
+  .footer-col-2 img{
+  width: 180px;
+  margin-bottom: 20px;
+  }
+  .footer-col-3, .footer-col-4{
+  flex-basis: 12%;
+  text-align: center;
+    }
+  
+ul {
+  list-style-type: none;
+}
+
+.app-logo {
+  margin-top: 20px;
+}
+
+.app-logo img{
+ width: 140px;
+}
